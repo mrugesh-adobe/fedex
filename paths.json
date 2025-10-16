@@ -1,6 +1,9 @@
 {
   "mappings": [
-    "/content/fedex/:/",
+    "/content/eds-xwalk/us/en:/en-us",
+    "/content/eds-xwalk/us/en/:/en-us/",
+    "/content/eds-xwalk/ca/fr:/fr-ca",
+    "/content/eds-xwalk/ca/fr/:/fr-ca/",
     "/content/fedex/configuration:/.helix/config.json",
     "/content/fedex/metadata:/metadata.json"
   ],
