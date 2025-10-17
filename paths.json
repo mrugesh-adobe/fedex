@@ -1,5 +1,6 @@
 {
   "mappings": [
+    "/content/fedex/:/",
     "/content/fedex/us/en:/en-us",
     "/content/fedex/us/en/:/en-us/",
     "/content/fedex/ca/fr:/fr-ca",
